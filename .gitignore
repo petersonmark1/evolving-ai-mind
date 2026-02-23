@@ -17,3 +17,5 @@ build/
 
 # OS
 Thumbs.db
+.vercel
+.env*.local
